@@ -4,6 +4,6 @@
 }
   
 .header__link:hover {
-  background-color:#1f1f1f ;
   transition: 1s;
+  opacity: .6;
 }
