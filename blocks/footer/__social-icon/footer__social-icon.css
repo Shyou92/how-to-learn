@@ -1,0 +1,8 @@
+.footer__social-icon {
+  margin: 0 10px 0 0;
+}
+  
+.footer__social-icon:hover {
+  background-color: #2f80ed;
+  transition: 1s;
+}
