@@ -2,8 +2,9 @@
   width: 515px;
   height: 316px;
   border: none;
+  margin-right: 20px;
 }
 
-.video__iframe:nth-child(1) {
-  margin-right: 20px;
+.video__iframe:nth-last-child(1) {
+  margin-right: 0;
 }
