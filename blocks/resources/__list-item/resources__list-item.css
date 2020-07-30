@@ -1,0 +1,4 @@
+.resources__list-item {
+  display: flex;    
+  justify-content: center;
+}
